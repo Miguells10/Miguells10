@@ -32,6 +32,9 @@
     <a href="mailto:lucas.freire@dcomp.ufs.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 
+  ## Meu Portfólio
+  https://miguells10.github.io/Portfolio/
+
  
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
