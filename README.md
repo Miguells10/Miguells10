@@ -9,8 +9,8 @@
   </p>
 
   <a href="https://github.com/Miguells10">
-    <img height="160em" src="https://github-readme-stats-mocha-two-95.vercel.app/api?username=Miguells10&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true&show_owner=true"/>
-    <img height="160em" src="https://github-readme-stats-mocha-two-95.vercel.app/api/top-langs/?username=Miguells10&theme=dracula&hide_border=true&layout=compact"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Miguells10&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguells10&theme=dracula&hide_border=true&layout=compact"/>
   </a>
 </div>
 
@@ -29,6 +29,7 @@
   <br>
 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank">
@@ -52,12 +53,12 @@
         </a>
       </td>
       <td width="50%" align="center">
-        <h3>Shark Map App</h3>
+        <h3>API Consultas Médicas</h3>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
         <br><br>
-        <p>Aplicação de mapas e geolocalização interativa.</p>
-        <a href="https://github.com/Miguells10/shark-map-app">
+        <p>Gestão de profissionais e consultas (Python + DRF), com auth JWT, testes automatizados e Swagger.</p>
+        <a href="https://github.com/Miguells10/Api-Gerenciamento-de-Consultas-Medicas">
            <img src="https://img.shields.io/badge/Acessar_Repositório-282a36?style=flat-square&logo=github&logoColor=white" />
         </a>
       </td>
