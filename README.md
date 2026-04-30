@@ -1,11 +1,18 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Miguel!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Miguel+Lucas!;+Backend%2C+Produto+e+DevOps.;" />
   </h1>
 
   <p>
-    Estudante de <b>Ciência da Computação</b> na <b>UFS</b> (Universidade Federal de Sergipe).<br>
-    Focado em desenvolvimento de software e apaixonado por tecnologia.
+    Graduando em <b>Ciência da Computação</b> na <b>UFS</b> (Universidade Federal de Sergipe).<br>
+    Atuo com <b>desenvolvimento de software</b>, com foco em <b>backend</b>, <b>produto</b> e <b>DevOps</b>,<br>
+    participando de projetos ligados a <b>saúde pública</b>, <b>inovação</b> e <b>tecnologia aplicada</b>.
+  </p>
+
+  <p>
+    <b>Assessor de Projetos e Desenvolvedor</b> no Innovation Hub da UFS •
+    <b>Bolsista PET-Saúde Digital</b> •
+    <b>3º lugar nacional</b> no Hackathon Radix & Maravalley 2026
   </p>
 
   <a href="https://github.com/Miguells10">
@@ -17,80 +24,166 @@
 <hr/>
 
 <div align="center">
+  <h2>🚀 Atuação Atual</h2>
+
+  <table border="0">
+    <tr>
+      <td width="33%" align="center">
+        <h3>Innovation Hub</h3>
+        <p>
+          Atuação com <b>requisitos</b>, <b>escopo</b>, <b>documentação técnica</b>,
+          <b>arquitetura</b> e desenvolvimento de soluções digitais no ecossistema de inovação da UFS.
+        </p>
+      </td>
+      <td width="33%" align="center">
+        <h3>PET-Saúde Digital</h3>
+        <p>
+          Participação no desenvolvimento de ferramentas digitais voltadas à
+          <b>gestão pública em saúde</b>, com foco em backend, dados e regras de negócio.
+        </p>
+      </td>
+      <td width="33%" align="center">
+        <h3>CDL Jovem</h3>
+        <p>
+          Experiência em <b>growth</b>, posicionamento e construção de iniciativas
+          ligadas ao ecossistema empresarial local.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<hr/>
+
+<div align="center">
   <h2>🛠️ Tecnologias e Ferramentas</h2>
-  
+
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
-  
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" target="_blank">
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" target="_blank">
+
   <br>
 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logoColor=black" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank">
 </div>
 
 <hr/>
 
 <div align="center">
-  <h2>Projetos em Destaque</h2>
-  
+  <h2>🏆 Destaques</h2>
+
   <table border="0">
     <tr>
+      <td width="50%" align="center">
+        <h3>Hackathon Radix & Maravalley 2026</h3>
+        <p>
+          Conquista de <b>3º lugar nacional</b> com o projeto <b>GridScope</b>,
+          solução de inteligência geoespacial aplicada à análise de geração distribuída e perfis de carga.
+        </p>
+      </td>
+      <td width="50%" align="center">
+        <h3>Inglês Profissional</h3>
+        <p>
+          Nível <b>B2 - High Intermediate</b>, com certificação Voxy e foco contínuo
+          em leitura técnica, conversação e contexto profissional.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<hr/>
+
+<div align="center">
+  <h2>Projetos em Destaque</h2>
+
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <h3>GridScope</h3>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/IA-5A4FCF?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Geoespacial-0A66C2?style=for-the-badge">
+        <br><br>
+        <p>
+          Solução desenvolvida para análise de perfis de carga e geração distribuída,
+          unindo dados, mapas e tomada de decisão.
+        </p>
+        <a href="https://github.com/Irandisilvaa/gridScope-core">
+          <img src="https://img.shields.io/badge/Acessar_Repositório-282a36?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </td>
       <td width="50%" align="center">
         <h3>Scalable Microservices</h3>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
         <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white">
         <br><br>
-        <p>Arquitetura de microsserviços escaláveis e robustos.</p>
+        <p>
+          Projeto focado em microsserviços, comunicação assíncrona,
+          observabilidade e infraestrutura como código.
+        </p>
         <a href="https://github.com/Miguells10/scalable-microservices">
           <img src="https://img.shields.io/badge/Acessar_Repositório-282a36?style=flat-square&logo=github&logoColor=white" />
         </a>
       </td>
+    </tr>
+    <tr>
       <td width="50%" align="center">
-        <h3>API Consultas Médicas</h3>
+        <h3>API de Consultas Médicas</h3>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
         <br><br>
-        <p>Gestão de profissionais e consultas (Python + DRF), com auth JWT, testes automatizados e Swagger.</p>
+        <p>
+          API REST com Django REST Framework, autenticação JWT,
+          filtros, documentação Swagger e organização voltada a boas práticas de backend.
+        </p>
         <a href="https://github.com/Miguells10/Api-Gerenciamento-de-Consultas-Medicas">
            <img src="https://img.shields.io/badge/Acessar_Repositório-282a36?style=flat-square&logo=github&logoColor=white" />
         </a>
       </td>
-    </tr>
-    <tr>
       <td width="50%" align="center">
-        <h3>Jogo de Xadrez</h3>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+        <h3>Ficaqui</h3>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
         <br><br>
-        <p>Sistema completo de Xadrez aplicando POO.</p>
-        <a href="https://github.com/Miguells10/chess-game-java">
-           <img src="https://img.shields.io/badge/Acessar_Repositório-282a36?style=flat-square&logo=github&logoColor=white" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <h3>Snake Game POO</h3>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-        <img src="https://img.shields.io/badge/Swing-E76F00?style=for-the-badge&logo=java&logoColor=white">
-        <br><br>
-        <p>Clássico jogo da cobrinha feito com Java Swing.</p>
-        <a href="https://github.com/Miguells10/snake_game_poo">
+        <p>
+          Marketplace local full stack criado em hackathon,
+          com React, NestJS, PostgreSQL, Prisma e Docker.
+        </p>
+        <a href="https://github.com/Miguells10/Ficaqui">
            <img src="https://img.shields.io/badge/Acessar_Repositório-282a36?style=flat-square&logo=github&logoColor=white" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <h3>Jogo da Forca</h3>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        <h3>Projeto Web Services</h3>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
         <br><br>
-        <p>Trabalho em grupo focado em Programação Funcional.</p>
-        <a href="https://github.com/Miguells10/Trabalho-PF-Grupo-G-2023.1">
+        <p>
+          Sistema web com foco em backend corporativo,
+          modelagem de domínio, API REST e integração com front-end.
+        </p>
+        <a href="https://github.com/Miguells10/Projeto-Web-Services">
            <img src="https://img.shields.io/badge/Acessar_Repositório-282a36?style=flat-square&logo=github&logoColor=white" />
         </a>
       </td>
@@ -100,7 +193,10 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
         <br><br>
-        <p>Gestão de fitoterápicos. Atuei no <b>Back-end & DevOps</b> (API RESTful, RBAC, Auth e Dockerização).</p>
+        <p>
+          Projeto voltado à gestão de fitoterápicos, com atuação em
+          <b>Back-end & DevOps</b>, incluindo API RESTful, autenticação, RBAC e dockerização.
+        </p>
         <a href="https://farmasertao.com.br" target="_blank">
            <img src="https://img.shields.io/badge/Acessar_Site-0078D4?style=flat-square&logo=google-chrome&logoColor=white" />
         </a>
@@ -108,24 +204,25 @@
     </tr>
   </table>
 </div>
+
 <br>
 
 <div align="center"> 
   <h2>📫 Entre em Contato</h2>
-  
-  <a href="https://www.instagram.com/miguellucaxx/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  
+
   <a href="https://www.linkedin.com/in/lucasfreire089/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> 
-  
-  <a href="mailto:lucas.freire@dcomp.ufs.br">
+  </a>
+
+  <a href="mailto:lucasmiguel646@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  
-  <a href="https://miguells10.github.io/Portfolio-2/" target="_blank">
+
+  <a href="http://lattes.cnpq.br/2794681193269120" target="_blank">
+    <img src="https://img.shields.io/badge/Lattes-1E5EFF?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Lattes">
+  </a>
+
+  <a href="https://portfolio-2-steel-seven.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio">
   </a>
 </div>
@@ -134,6 +231,6 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Obrigado+pela+atenção!;Vamos+construir+algo+grande.;" />
   </h1>
 </div>
