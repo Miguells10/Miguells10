@@ -159,18 +159,25 @@
         </a>
       </td>
       <td width="50%" align="center">
-        <h3>Ficaqui</h3>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-        <br><br>
-        <p>
-          Marketplace local full stack criado em hackathon,
-          com React, NestJS, PostgreSQL, Prisma e Docker.
-        </p>
-        <a href="https://github.com/Miguells10/Ficaqui">
-           <img src="https://img.shields.io/badge/Acessar_Repositório-282a36?style=flat-square&logo=github&logoColor=white" />
-        </a>
+  <h3>Gladius</h3>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <br><br>
+  <p>
+    Jogo multiplayer de batalha por turnos desenvolvido para a disciplina
+    de Sistemas Distribuídos, com microsserviços, comunicação em tempo real,
+    mensageria, persistência externa e observabilidade.
+  </p>
+  <p>
+    Tecnologias: NestJS, TypeScript, Socket.IO, PostgreSQL, Redis,
+    RabbitMQ, Docker, Kubernetes, Prometheus, Grafana e Jaeger.
+  </p>
+  <a href="https://github.com/Miguells10/Gladius">
+    <img src="https://img.shields.io/badge/Acessar_Repositório-282a36?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</td>
       </td>
     </tr>
     <tr>
