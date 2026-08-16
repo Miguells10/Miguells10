@@ -15,10 +15,14 @@
     <b>3º lugar nacional</b> no Hackathon Radix & Maravalley 2026
   </p>
 
-  <a href="https://github.com/Miguells10">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Miguells10&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguells10&theme=dracula&hide_border=true&layout=compact"/>
-  </a>
+ <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Miguells10&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Miguells10&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Miguells10&theme=github_dark" />
+</p>
 </div>
 
 <hr/>
